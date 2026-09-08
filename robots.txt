@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://westernrealtyhub.info/sitemap.txt
